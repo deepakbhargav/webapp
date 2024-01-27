@@ -1,3 +1,3 @@
 this is my responsive project
 <br>
-how to make responsive
+how to make responsive (dropdown)
